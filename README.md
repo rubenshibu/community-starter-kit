@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+a GitHub App built with probot that welcomes new users based off maintainer defined comments that should be located in a .github/config.yml
 
 ## What it does
 
-FEATURES PLACEHOLDER
+its an open sourse and mono is nice and it will send hello to all your contributers
 
 ## Getting started
 
