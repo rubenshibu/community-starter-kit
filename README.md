@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+It's a forum for collaboration, a sandbox for testing, a launchpad for deployment
 
 ## What it does
 
-FEATURES PLACEHOLDER
+its an open sourse and mono is nice and it will send hello to all your contributers
 
 ## Getting started
 
